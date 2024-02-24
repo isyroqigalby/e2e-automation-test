@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80f7054f-1c67-447a-aaee-0d81fc365b2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4ae1a62-ddf5-49a6-a5bd-1a1237bd8267</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tokobarusayates1'</defaultValue>
+      <description></description>
+      <id>f4ae1a62-ddf5-49a6-a5bd-1a1237bd8267</id>
+      <masked>false</masked>
+      <name>namaToko</name>
+   </variable>
+</TestCaseEntity>
